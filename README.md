@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Learning SQL from a bootcamp 
+Learning SQL from a bootcamp. 
